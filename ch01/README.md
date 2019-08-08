@@ -213,6 +213,7 @@ int main()
 > 对比for循环和while循环，两种形式的优缺点各是什么？
 
 [在Stack Overflow上面有与这个相似的问题](http://stackoverflow.com/questions/2950931/for-vs-while-in-c-programming)
+概括而言就是for循环更适合循环次数事先知道的情况并且更简洁一些，而while循环更适合循环次数未知的情况。
 
 ## 练习1.15
 
